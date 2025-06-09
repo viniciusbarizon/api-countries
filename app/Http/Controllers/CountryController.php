@@ -7,7 +7,7 @@ use App\Http\Requests\UpdateCountryRequest;
 use App\Models\Country;
 use Illuminate\Http\Resources\Json\JsonResource;
 use Illuminate\Http\Resources\Json\ResourceCollection;
-use \Illuminate\Http\Response;
+use Illuminate\Http\Response;
 
 class CountryController
 {
